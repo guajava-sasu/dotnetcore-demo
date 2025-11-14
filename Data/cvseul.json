@@ -1,0 +1,884 @@
+﻿{
+  "_id": {
+    "$oid": "64a36147bc362469f867d90f"
+  },
+  "contact": {
+    "email": "guajavasas@gmail.com",
+    "telephone": {
+      "mobile": "0684266132"
+    }
+  },
+  "loisirs": [
+    "Apiculture",
+    "Jardinage"
+  ],
+  "certifications": [
+    "70-480 HTML CSS Javascript"
+  ],
+  "competences": {
+    "outils": [
+      "Visual Studio",
+      "SQL Server",
+      "Gulp",
+      "VSTS",
+      "TFS",
+      "SVN",
+      "Git",
+      "Source Tree",
+      "CheckStyle",
+      "SonarQube",
+      "JUnit",
+      "NodeJS",
+      "MongoDB",
+      "Resharper"
+    ],
+    "langages": [
+      "C#",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "Less",
+      "XML",
+      "XSLT",
+      "UML"
+    ],
+    "framework": [
+      "ASP.NET MVC",
+      "Angular",
+      "Ionic",
+      "Entity Framework",
+      "NHibernate",
+      "SQL Server",
+      "Oracle",
+      "MySQL"
+    ],
+    "methodes": [
+      "Scrum",
+      "Backlog"
+    ]
+  },
+  "atouts": [
+    "Travail en Autonomie",
+    "Edition de logiciel",
+    "Certification HTML5 JavaScript CSS3"
+  ],
+  "formations": [
+    {
+      "_id": {
+        "$oid": "64a36147bc362469f867d910"
+      },
+      "annee_de_sortie": "2011",
+      "titre": "Ingénieur systèmes Energétiques",
+      "etablissement": "ESME-SUDRIA"
+    },
+    {
+      "_id": {
+        "$oid": "64a36147bc362469f867d911"
+      },
+      "annee_de_sortie": "2015",
+      "titre": "Analyste informatique",
+      "etablissement": "AFCEPF"
+    },
+    {
+      "_id": {
+        "$oid": "64a36147bc362469f867d912"
+      },
+      "annee_de_sortie": "2016",
+      "titre": "Architecte logiciel",
+      "etablissement": "AFCEPF"
+    }
+  ],
+  "langues": [
+    {
+      "_id": {
+        "$oid": "64a36147bc362469f867d913"
+      },
+      "nom": "fr-FR",
+      "langue": "Français",
+      "niveau": "Natif"
+    },
+    {
+      "_id": {
+        "$oid": "64a36147bc362469f867d914"
+      },
+      "nom": "en-GB",
+      "langue": "Anglais",
+      "niveau": "Business"
+    },
+    {
+      "_id": {
+        "$oid": "64a36147bc362469f867d915"
+      },
+      "nom": "es-ES",
+      "langue": "Espagnol",
+      "niveau": "Conversation"
+    }
+  ],
+  "clients": [
+    {
+      "environnement": {
+        "bdds": [],
+        "languages": [
+          "C#",
+          "JavaScript",
+          "HTML5",
+          "CSS3"
+        ],
+        "logiciels": [
+          "Visual Studio 2015"
+        ],
+        "framework": [
+          "ASP.NET MVC4",
+          "NHibernate"
+        ],
+        "ide": [
+          "Visual Studio 2015"
+        ],
+        "autre": [
+          "Azure"
+        ]
+      },
+      "mission": [
+        "optimisation UX",
+        "Optimisation de gestion Azure",
+        "Publication du site sur Azure"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d916"
+      },
+      "entreprise": "UNHAJ",
+      "debut": "2015-08-01",
+      "fin": "2015-11-01",
+      "poste": "Développeur",
+      "projet": "Tierce maintenance applicative"
+    },
+    {
+      "environnement": {
+        "bdds": [],
+        "languages": [
+          "C#",
+          "JavaScript",
+          "HTML5",
+          "CSS3"
+        ],
+        "logiciels": [
+          "Visual Studio 2015"
+        ],
+        "framework": [
+          "ASP.NET MVC4",
+          "NHibernate"
+        ],
+        "ide": [
+          "Visual Studio 2015"
+        ],
+        "autre": [
+          "Azure"
+        ]
+      },
+      "mission": [
+        "optimisation UX",
+        "Optimisation de gestion Azure",
+        "Publication du site sur Azure"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d917"
+      },
+      "entreprise": "E.LECLERC",
+      "debut": "2015-08-01",
+      "fin": "2015-11-01",
+      "poste": "Développeur",
+      "projet": "Tierce maintenance applicative"
+    },
+    {
+      "environnement": {
+        "bdds": [],
+        "languages": [
+          "C#",
+          "JavaScript",
+          "HTML5",
+          "CSS3"
+        ],
+        "logiciels": [
+          "Visual Studio 2015"
+        ],
+        "framework": [
+          "ASP.NET MVC4",
+          "NHibernate"
+        ],
+        "ide": [
+          "Visual Studio 2015"
+        ],
+        "autre": [
+          "Azure"
+        ]
+      },
+      "mission": [
+        "optimisation UX",
+        "Optimisation de gestion Azure",
+        "Publication du site sur Azure"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d918"
+      },
+      "entreprise": "WEBOUCHERIE",
+      "debut": "2015-08-01",
+      "fin": "2015-11-01",
+      "poste": "Développeur",
+      "projet": "Tierce maintenance applicative"
+    },
+    {
+      "environnement": {
+        "bdds": [],
+        "languages": [
+          "TypeScript",
+          "jQuery",
+          "HTML5",
+          "CSS3",
+          "Less"
+        ],
+        "logiciels": [],
+        "framework": [
+          "Angular JS"
+        ],
+        "ide": [
+          "Visual Studio 2015"
+        ],
+        "autre": [
+          "jQuery",
+          "JSON"
+        ]
+      },
+      "mission": [
+        "Développement d’une application universelle Windows ",
+        "Création d’IHM adaptées à l’ergonomie tactile ",
+        "Consommation, validation et envoi des données via des services REST ",
+        "Visite de validation chez le client ",
+        "Visuel en Angular JS"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d919"
+      },
+      "entreprise": "Areas",
+      "debut": "2016-06-01",
+      "fin": "2016-06-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Création d’un outil web pour tablette"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          " MySQL"
+        ],
+        "languages": [
+          "JavaScript",
+          "HTML5",
+          "CSS3"
+        ],
+        "logiciels": [
+          " MySQL Workbench"
+        ],
+        "framework": [
+          " ASP.NET MVC 5",
+          " .NET4.5",
+          " jQuery",
+          " EntityFramework 6",
+          " WEB API2"
+        ],
+        "ide": [
+          "Visual Studio 2015"
+        ],
+        "autre": [
+          " Service Windows"
+        ]
+      },
+      "mission": [
+        "Développement d’un site web :",
+        "Mise en place de l’architecture de l’application",
+        "Création de la base de données via Entity Framework 6 Code First",
+        "IHM, de gestion, de paramétrages de l’application, et de recherche de documents",
+        "Travail en binôme, supervisé par un chef de projet",
+        "Création d’un service local d’envoi périodique des données à la centrale"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d91a"
+      },
+      "entreprise": "Groupe FLO",
+      "debut": "2016-06-01",
+      "fin": "2016-12-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Dématérialisation des pièces de caisse, pour un stockage centralisé, du géant de la restauration « Groupe FLO »"
+    },
+    {
+      "environnement": {
+        "bdds": [],
+        "languages": [
+          "C#",
+          "XML"
+        ],
+        "logiciels": [
+          "Visual Studio 2015"
+        ],
+        "framework": [
+          "ASP.NET MVC4",
+          "NHibernate",
+          "Log4Net,"
+        ],
+        "ide": [
+          "Visual Studio 2015"
+        ],
+        "autre": [
+          "Office 365",
+          "Exchange Web Service"
+        ]
+      },
+      "mission": [
+        "Amélioration de l’application par :",
+        "Filtrage des mails, puis redirection des réponses selon la validité des pièces jointes",
+        "Ajout de logs de description des étapes suivi par l’application, pour l’exploitation",
+        "Optimisation de la robustesse de l’application (gestion différente des exceptions, par des alertes pour les équipes incluses dans les logs des exceptions) "
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d91b"
+      },
+      "entreprise": "Technip",
+      "debut": "2016-08-01",
+      "fin": "2016-12-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Gestion des emails de facturation de l’entreprise, validation, refus et réponse, via Exchange Web Service et office 365"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          " SQL Server 2014"
+        ],
+        "languages": [
+          "C#",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          " XML"
+        ],
+        "logiciels": [
+          "Visual Studio 2015"
+        ],
+        "framework": [
+          " Webform",
+          " ASP.NET MVC 4.5",
+          " Sitefinity",
+          " Log4Net",
+          " Bootstrap"
+        ],
+        "ide": [
+          "Visual Studio 2015"
+        ],
+        "autre": []
+      },
+      "mission": [
+        "Création d’une application web avec comme contraintes:",
+        "Logs d’informations assez explicites pour les différents services de l’entreprise",
+        "Consommation du flux d’informations déjà utilisé par une application existante",
+        "Gestion de différentes langues d’utilisation de l’outil (anglais et français)"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d91c"
+      },
+      "entreprise": "Areva",
+      "debut": "2016-10-01",
+      "fin": "2016-11-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Création d’un nouvel outil de support, pour suivi des tickets en erreur, à gérer par le département informatique, la persistance des données étant gérée via Team Foundation Server (TFS). Ajout de ressources et d’informations à la page d’accueil du portail d’entreprise"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          " SQL Server 2012"
+        ],
+        "languages": [
+          " HTML5",
+          " CSS3",
+          " Less",
+          " TypeScript "
+        ],
+        "logiciels": [
+          " Jenkins",
+          " SonarQube",
+          "Visual Studio Team System (VSTS)"
+        ],
+        "framework": [
+          " WinJS"
+        ],
+        "ide": [
+          "Visual Studio 2015"
+        ],
+        "autre": [
+          " SCRUM"
+        ]
+      },
+      "mission": [
+        "Responsable du développement de l’application périphérique « Insertion », chargée du découpage de documents pdf transmis par les experts dans Sésame 3.",
+        "Recette et livraison d’une première version exploitable",
+        "Réusinage : optimisation du code existant (respect des principes du « Clean Code »), optimisation des méthodes du serveur",
+        "Migration du serveur (écrit en C#) vers une nouvelle architecture",
+        "Revue du code des autres applications et test de validation des modifications effectuées sur celles-ci"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d91d"
+      },
+      "entreprise": "Saretec",
+      "debut": "2017-01-01",
+      "fin": "2017-07-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Poursuite du développement de l’application « Sésame 3 » (Application Universelle Windows 10), pour les experts en assurance de SARETEC. C’est l’évolution de « Sesame2006 ». Travail sur un panel d’applications périphériques complémentaires (Microservices)"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "SQL Server 2012"
+        ],
+        "languages": [
+          "C#",
+          "HTML5",
+          "CSS3",
+          "Less",
+          "JavaScript",
+          "TypeScript "
+        ],
+        "logiciels": [
+          "SonarQube"
+        ],
+        "framework": [
+          "Bootstrap",
+          " Razor",
+          " Log4Net",
+          " Unity (IOC)",
+          " Mapster (mapping)",
+          " Entity Framework (CodeFirst)"
+        ],
+        "ide": [
+          "Visual Studio 2015"
+        ],
+        "autre": [
+          "JQuery",
+          "Biztalk 2010 ",
+          "SOAP"
+        ]
+      },
+      "mission": [
+        "Création d’IHM: page d’index, pages d’affichage des statistiques stockées dans la base de données distante, page de gestion des champs des tableaux de l’application (champs modifiables ou non)",
+        "Implémentation de la synchronisation des données application-web services",
+        "Consommation de services SOAP, avec réception et envoi de contenu XML",
+        "Ajout de nouvelles routes à la WebApi de l’application (pour les pages de statistiques et les informations concernant les champs modifiables des tableaux)",
+        "Réusinage : optimisation des appels à la base de données locale, et au web service",
+        "Intégration HTML: amélioration du comportement des grilles, en exploitant les fonctionnalités du composant Handsontable, et la librairie Bootstrap.",
+        "Publication du site dans les environnements de production et de test chez le client"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d91e"
+      },
+      "entreprise": "Keolis",
+      "debut": "2017-08-01",
+      "fin": "2017-11-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Mise en place d’un portail Web de gestion des données référentielles: paramétrages des droits d’accès aux différentes bases de données du système, mise à jour de ces bases à partir du référentiel"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "SQL Server 2012"
+        ],
+        "languages": [
+          "C#",
+          "HTML5",
+          " CSS3",
+          " Less",
+          " JavaScript",
+          " TypeScript ",
+          " AngularJS 1.4  ",
+          "SQL"
+        ],
+        "logiciels": [
+          " Git",
+          " Source Tree",
+          " Visual Studio Team Services"
+        ],
+        "framework": [
+          " .Net 4.6.1",
+          " Razor",
+          " Unity (IOC)",
+          " BACPAC",
+          " Entity Framework (CodeFirst) ",
+          " Bootstrap"
+        ],
+        "ide": [
+          "Visual Studio 2013"
+        ],
+        "autre": []
+      },
+      "mission": [
+        "Adaptation d’IHM : page, directives, contrôleurs (angularJS)",
+        "Tierce maintenance applicative",
+        "Ré usinage : réécriture de l’existant en code propre"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d91f"
+      },
+      "entreprise": "Ageas",
+      "debut": "2017-11-01",
+      "fin": "2018-04-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Mise en place d’un nouveau produit de souscription aux assurances vie. Création du nouveau produit par adaptation des pages d’un produit existant"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "SQL Server 2014"
+        ],
+        "languages": [
+          "C#",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "SQL"
+        ],
+        "logiciels": [
+          " Visual Studio Team Services"
+        ],
+        "framework": [
+          " .Net Framework 4.0",
+          " Razor"
+        ],
+        "ide": [
+          "Visual Studio 2010"
+        ],
+        "autre": [
+          " Biztalk 2010 "
+        ]
+      },
+      "mission": [
+        "Développement C# et tests de non-régression",
+        "Déploiement des applications",
+        "Organisation des sprints plannings",
+        "Ecriture des taches et des procédures de tests",
+        "Création de procédures stockées",
+        "Préparation des releases",
+        "Ré usinage des parties de codes impactées par les modifications",
+        "Tierce maintenance applicative"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d920"
+      },
+      "entreprise": "FNAC",
+      "debut": "2018-04-01",
+      "fin": "2019-04-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Développement des nouveaux projets, pour la partie Backend des applications commerce de la FNAC (magasin et web)"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "Oracle"
+        ],
+        "languages": [
+          "C#",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "SQL"
+        ],
+        "logiciels": [
+          "Visual Studio Team Services"
+        ],
+        "framework": [
+          " .Net Framework 4.5.2",
+          " Razor"
+        ],
+        "ide": [
+          "Visual Studio 2017"
+        ],
+        "autre": [
+          " MVC"
+        ]
+      },
+      "mission": [
+        "Développement ASP.Net MVC et tests de non-régression",
+        "Déploiement des applications",
+        "Ré usinage des parties de codes impactées par les modifications",
+        "Tierce maintenance applicative"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d921"
+      },
+      "entreprise": "Tick & Live",
+      "debut": "2019-04-01",
+      "fin": "2019-09-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Refonte du site de la billetterie des 24 Heures du Mans"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "SQL Server 2018"
+        ],
+        "languages": [
+          "C#",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "SQL"
+        ],
+        "logiciels": [
+          " Git",
+          " Source Tree",
+          " Visual Studio Team Services"
+        ],
+        "framework": [
+          " .Net Framework 4.5.2",
+          " Razor"
+        ],
+        "ide": [
+          "Visual Studio 2019"
+        ],
+        "autre": []
+      },
+      "mission": [
+        "Développement C# .Net MVC",
+        "Déploiement des applications",
+        "Mise en recette"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d922"
+      },
+      "entreprise": "COFACE",
+      "debut": "2019-09-01",
+      "fin": "2022-12-31",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Mise en place de la version de Coface, de l'application Onedesk d'Econocom"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "SQL Server 2018"
+        ],
+        "languages": [
+          "C#",
+          "HTML5",
+          "JavaScript",
+          "CSS3",
+          "SQL"
+        ],
+        "logiciels": [
+          " Git",
+          " Source Tree",
+          " Visual Studio Team Services"
+        ],
+        "framework": [
+          " .Net Framework 4.5.2",
+          " Razor"
+        ],
+        "ide": [
+          "Visual Studio 2019"
+        ],
+        "autre": []
+      },
+      "mission": [
+        "Mise ne production"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d923"
+      },
+      "entreprise": "Meltour",
+      "debut": "2019-09-01",
+      "fin": "2022-12-31",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Developpement de nouvelles fonctionnalitées"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "SQL Server 2018"
+        ],
+        "languages": [
+          "C#",
+          "HTML5",
+          "JavaScript",
+          "CSS3",
+          "SQL"
+        ],
+        "logiciels": [
+          " Git",
+          " Source Tree",
+          " Visual Studio Team Services"
+        ],
+        "framework": [
+          " .Net Framework 4.5.2",
+          " Razor"
+        ],
+        "ide": [
+          "Visual Studio 2019"
+        ],
+        "autre": []
+      },
+      "mission": [
+        "Développement C# .Net MVC",
+        "Déploiement des applications",
+        "Mise en recette"
+      ],
+      "_id": {
+        "$oid": "64a36147bc362469f867d924"
+      },
+      "entreprise": "SUEZ",
+      "debut": "2019-09-01",
+      "fin": "2020-10-01",
+      "poste": "Ingénieur d’étude et développement",
+      "projet": "Mise en place de la nouvelle vesrion de l'application Prévoir"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "Oracle",
+          "Sql Server"
+        ],
+        "languages": [
+          "pl/sql"
+        ],
+        "logiciels": [],
+        "framework": [
+          ".Net Core"
+        ],
+        "ide": [
+          "Vs Code"
+        ],
+        "autre": []
+      },
+      "mission": [
+        "Développer et modifier des procédures stockées",
+        "Développer des IHM de monitoring",
+        "Transfert de données d'Oracle vers SQL Server"
+      ],
+      "_id": {
+        "$oid": "64a36b0bf1327c5ca0503f38"
+      },
+      "entreprise": "Otis",
+      "debut": "2023-01-16",
+      "fin": "2023-03-10",
+      "poste": "Developpeur Oracle",
+      "projet": "Création et modification de Procédures stockées Oracle"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "MongoDB"
+        ],
+        "languages": [
+          "JavaScript",
+          "TypeScript"
+        ],
+        "logiciels": [],
+        "framework": [
+          "Express Js",
+          "Vue Js 2"
+        ],
+        "ide": [
+          "Visual Studio Code"
+        ],
+        "autre": [
+          "Node Js"
+        ]
+      },
+      "mission": [
+        "Création de l'application",
+        "Mise en production",
+        "Gestion et maintenance "
+      ],
+      "_id": {
+        "$oid": "64a375498c72bd437ce1c793"
+      },
+      "entreprise": "Guajava",
+      "debut": "2023-03-13",
+      "fin": "2023-07-14",
+      "poste": "Développeur Fullstack",
+      "projet": "Création d'un gestionnaire de CV"
+    },
+    {
+      "environnement": {
+        "bdds": [],
+        "languages": [
+          "JavaScript"
+        ],
+        "logiciels": [],
+        "framework": [
+          "Vue Js 2"
+        ],
+        "ide": [
+          "Visual Studio Code"
+        ],
+        "autre": []
+      },
+      "mission": [
+        "Développement de nouvelles fonctionnalités"
+      ],
+      "_id": {
+        "$oid": "64a379ce8c72bd437ce1c8af"
+      },
+      "entreprise": "Atimeus",
+      "debut": "2022-12-30",
+      "fin": "2023-01-13",
+      "poste": "Developpeur Front",
+      "projet": "Gestionnaire de CRA"
+    },
+    {
+      "environnement": {
+        "bdds": [
+          "Sql Server"
+        ],
+        "languages": [
+          "C# .Net",
+          "Javascript",
+          "HTML5",
+          "CSS3"
+        ],
+        "logiciels": [
+          "Azure Data Studio",
+          "Bitbucket",
+          "Atlassian",
+          "Kanban",
+          "Slack",
+          "Suite Confluence"
+        ],
+        "framework": [
+          "React Js",
+          " .Net Core"
+        ],
+        "ide": [
+          "Visual Studio Code",
+          "Visual Studio 2019"
+        ],
+        "autre": []
+      },
+      "mission": [
+        "Développement de l’API en .Net Core et du Front en React",
+        "Mise en place de la base de donnée via les migrations Entity Framework Core",
+        "Déploiement et test de l’application"
+      ],
+      "_id": {
+        "$oid": "64b141b36034d277ec9ed250"
+      },
+      "entreprise": "Maskott",
+      "debut": "2021-10-01",
+      "fin": "2021-12-31",
+      "poste": "Developpeur Fullstack",
+      "projet": "Développement d’un fédérateur d’identité"
+    }
+  ],
+  "etiquette": "Ingénieur d'études Guajava 3",
+  "utilisateur": "633e89e8d7ca622894400039",
+  "nom": "RANO",
+  "prenom": "Nicolas",
+  "titre": "Ingénieur d'études",
+  "annees_experience": 8,
+  "__v": 13,
+  "image": null
+}
